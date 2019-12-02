@@ -4,7 +4,7 @@
 	-fx-background-color: orange;
 	-fx-border-color: orange;
 	-fx-text-fill: white;	
-	-fx-background-image: url("/image/squirrel.png");
+	-fx-background-image: url("../image/squirrel.png");
 	-fx-background-repeat: no-repeat;
 	-fx-background-position: center;
 }
@@ -54,7 +54,7 @@
 	
 
 .fondo{
-	-fx-background-image: url("/image/blueforest.jpg");
+	-fx-background-image: url("../image/blueforest.jpg");
 	-fx-background-size: 100%;
 	-fx-background-repeat: no-repeat ;
 	
